@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Assignments.iml" filepath="$PROJECT_DIR$/.idea/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tip_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Tip_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tip_Calculator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tip_Calculator.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tip_Calculator.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tip_Calculator.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tip_Calculator.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tip_Calculator.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tip_Calculator.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tip_Calculator.app.unitTest.iml" />
     </modules>
   </component>
 </project>
